@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.selected {
+  background: yellow !important;
+}
+
+.options {
+  padding: 8px;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  margin: 5px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 18px;
+  background-color: tomato;
+}
