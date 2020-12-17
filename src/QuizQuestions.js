@@ -27,7 +27,7 @@ export const QuizQuestions = [
       id: "4",
       question: `“You’re gonna need a bigger boat” originated in what movie?`,
       options: [`Titanic`, `Frozen`, `Jaws`],
-      answer: `China`
+      answer: `Jaws`
     },
     {
       id: "5",
