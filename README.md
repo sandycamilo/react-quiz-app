@@ -1,4 +1,4 @@
 # Trivia-Quiz-App 
 
 
-https://game-app-c506e.web.app
+https://game-app-c506e.firebaseapp.com
