@@ -36,7 +36,7 @@ export const QuizQuestions = [
       answer: `Reese’s Pieces`
     },
     {
-      id: "7",
+      id: "6",
       question: `In what American state is it illegal to dress up like a priest or a nun?`,
       options: [`California`, `Washington`, `Alabama`],
       answer: `Alabama`
